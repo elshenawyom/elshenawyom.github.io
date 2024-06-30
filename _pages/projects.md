@@ -2,12 +2,24 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: some of the cool stuff I have created.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+#display_categories: [work, fun]
 horizontal: false
 ---
+
+<!--
+- jacobshack sustainapple
+- numerical schemes for mathematical modeling
+- time series and images for dsp
+- optimization in python for dsp
+- check out the dsp and nsl projects maybe that's useful
+-->
+
+
+
+
 
 <!-- pages/projects.md -->
 <div class="projects">
