@@ -4,10 +4,12 @@ require 'jekyll'
 require 'nokogiri'
 require 'time'
 
+
 module ExternalPosts
   class ExternalPostsGenerator < Jekyll::Generator
     safe true
     priority :high
+
 
     def generate(site)
       if site.config['external_sources'] != nil
