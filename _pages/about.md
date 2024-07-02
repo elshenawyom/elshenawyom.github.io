@@ -19,9 +19,66 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi there! Site currently under construction. 
+Hi there! Site under construction.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!--
+I am in the research group of Professor Lisa Berger, working on Dessins D'enfants & Complete regular maps.
+
+
+
+
+
+
+
+
+a few technical nice remark introduction words about yourself
+
+hard working, learns easily, dedicated, and light-hearted
+
+has many interests. does math problems research bcs its fun, does teaching bcs its meaningful (check out my statement), and does project management, finance, coding, etc.. because it's practical
+
+learns very fastly. 
+
+
+
+
+
+In my free time, I like football, chess, and read books,  or play .
+
+cycle and play football. 
+
+
+zawed bardo multi-faceted
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+tasks and questions:
+- how do i get indexed?
+- set up google analytics to see the site viewers for fun?
+- is there an option to contact me through the website?
+- blog about math club topics lol. so latex guide how-to-use and writing proofs and some other things i need to remember 
+-->
+
+
+
+
+<!-- 
+
+ [subreddit](http://reddit.com). You can put a p
+ 
+ Write your biography here. Tell the world about yourself. Link to your favoriteicture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
