@@ -9,9 +9,7 @@ profile:
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <!--<p>555 your office number</p>-->
-    <p>Constructor University</p>
-    <p>Campus Ring 1</p>
+    <p>Campus Ring 1 </p>
     <p>28759 Bremen, Germany</p>
 
 news: true # includes a list of news items
@@ -19,14 +17,38 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi there! Site under construction.
+Hi there! 
+
+I am an undergraduate student of mathematics. Right now I am in the research group of Professor Lisa Berger, working on an interesting intersection of Topological Graph Theory and Algebraic Number Theory.
+
+
+
+With that being said, very few things do not pique my interest. I enjoy applying practical rigour to meaningful constructions. My involvement extends to projects in data analytics, finance, IT & software, project management, and teaching.
+
+
+At the intersection of all these facades lies someone who is not afraid to experiment, to make mistakes and profit from them, to accept frustration and yet persevere to an ultimate triumph. $$\boxed{\xi}$$
+
 
 <!--
+
+This someone also likes pets, chess, football and cycling :)
+
+
+is not afraid to experiment, to make mistakes and profit from them, to accept some frustrations and persevere to the ultimate triumph
+
+
+driving desire for innovation, and a deep, geniune x in solving problems.
+
+reativity, a driving desire for innovation and a hunger for problem solving.
+
+thinking, 
+
+
+though I do often engage in  as
+
+
+
 I am in the research group of Professor Lisa Berger, working on Dessins D'enfants & Complete regular maps.
-
-
-
-
 
 
 
@@ -39,16 +61,15 @@ has many interests. does math problems research bcs its fun, does teaching bcs i
 
 learns very fastly. 
 
-
-
-
-
 In my free time, I like football, chess, and read books,  or play .
 
 cycle and play football. 
 
 
 zawed bardo multi-faceted
+
+
+in the intersection of all these xyz lies a 
 
 -->
 
