@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mathematics @ Constructor University # <!-- <a href='#'>Affiliations</a>. -- Address. Contacts. Moto. Etc.-->
+subtitle: Junior Mathematician # <!-- <a href='#'>Affiliations</a>. -- Address. Contacts. Moto. Etc.-->
 
 profile:
   align: right

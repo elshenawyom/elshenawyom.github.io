@@ -2,22 +2,36 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Omar Elshenawy, Junior Mathematician # the website title (if blank, full name will be used instead)
 first_name: Omar
 middle_name: M.
 last_name: Elshenawy
 email: elshinawyom@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Homepage for Omar Elshinawy, student at Constructor University in Bremen
+  Homepage for Omar Elshenawy, student at Constructor University in Bremen
 footer_text: > # <!-- © 2024. All Rights Reserved. -->
-keywords: # add your own keywords or leave empty
+keywords: 
+- mathematics
+- mathematics education
+- mathematical research
+- topological graph theory
+- algebraic nummbber theory
+- data analytics
+- finance
+- IT
+- project management
+- teaching
+- undegraduate
+- numerical methods
+- constructor university
+# add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ξ) # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://elshenawyom.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: true # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
