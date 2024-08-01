@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Omar Elshenawy, Junior Mathematician # the website title (if blank, full name will be used instead)
+title: Omar M. Elshenawy # the website title (if blank, full name will be used instead)
 first_name: Omar
 middle_name: M.
 last_name: Elshenawy
@@ -11,6 +11,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage for Omar Elshenawy, student at Constructor University in Bremen
 footer_text: > # <!-- © 2024. All Rights Reserved. -->
 keywords: 
+- junior mathematician
 - mathematics
 - mathematics education
 - mathematical research
@@ -24,6 +25,8 @@ keywords:
 - undegraduate
 - numerical methods
 - constructor university
+- omar elshenawy
+- omar elshinawy
 # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ξ) # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

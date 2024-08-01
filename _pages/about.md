@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Junior Mathematician # <!-- <a href='#'>Affiliations</a>. -- Address. Contacts. Moto. Etc.-->
+subtitle: Junior Mathematician @ Constructor University # <!-- <a href='#'>Affiliations</a>. -- Address. Contacts. Moto. Etc.-->
 
 profile:
   align: right
@@ -66,8 +66,6 @@ In my free time, I like football, chess, and read books,  or play .
 cycle and play football. 
 
 
-zawed bardo multi-faceted
-
 
 in the intersection of all these xyz lies a 
 
@@ -86,11 +84,9 @@ in the intersection of all these xyz lies a
 
 <!--
 tasks and questions:
-- how do i get indexed?
-- set up google analytics to see the site viewers for fun?
-- is there an option to contact me through the website?
-- blog about math club topics lol. so latex guide how-to-use and writing proofs and some other things i need to remember 
--->
+- contact thru website option
+- blog about latex guide how-to-use and writing proofs and some other things i need to remember 
+
 
 
 
