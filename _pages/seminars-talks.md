@@ -12,4 +12,4 @@ nav_order: 2
 
 {% bibliography --file seminars-talks%}
 
-</div>
+</div>      

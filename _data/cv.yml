@@ -1,4 +1,4 @@
-- title: General Information
+- title: basics
   type: map
   contents:
     - name: Full Name
@@ -9,7 +9,7 @@
       value: English, German, Arabic
 
 
-- title: Education
+- title: education
   type: time_table
   contents:
     - title: "Bachelor of Science in Mathematics, Minor in Data Science"
@@ -19,87 +19,33 @@
 
     - title: Summer School in Mathematical Physics
       institution: Cairo University, Giza, Egypt
-      year: "07.2024 — "
+      year: "07.2024 — 08.2024"
 
-- title: Research
+- title: research
   type: time_table
   contents:
     - title: Dessins D’enfants & Complete Regular Maps
       institution: Stony Brook University, Stony Brook, New York, US
       year: "06.2024 — "
       description:
-        - We are interested in studying the deep consequences of Belyi’s theorem and the Uniformization theorem, with complete regular maps as the main object of attention. From constructions of complete regular maps of higher genus to induced Riemann surfaces by complete regular dessins, there are many interesting questions that arise.
+        - a complete regular map is an embedding of a complete graph \(K_n\) into a \(g−\)holed surface that exhibits maximal symmetry. Norman Biggs [1972] constructed such maps as Cayley maps associated to finite fields. James and Jones [1985] proved Biggs’ construction gives all complete regular maps. We propose an alternative construction that emphasizes an interesting interplay between elements of Algebraic Number Theory and Topological Graph Theory.
     - title: "<div style='margin-left: 10px;'>Interaction Energy of Quasi-particles in a Bose gas</div>"
       institution: Constructor University, Bremen, Germany
       year: "11.2022 - 02.2023"
       description:
-        - An early involvement working within a research team, there was mentorship on effectively integrating mathematical and computational methods into a research project. Bose-Einstein condensate is cool (!)
+        - the Bose-Einstein condensate is a state of matter formed when bosons occupy the same quantum state at ultracold temperatures, leading to macroscopic quantum phenomena. We aim to compute the interaction energy between two quasi-particles in a homogeneous Bose gas beyond Bogoliubov theory, identifying regimes of attractive and repulsive interactions based on their momenta. The study of mathematical physics demands great rigor, and an early pursuit of this goal implied a remarkable step towards mathematical maturity.
 
-- title: Entrepreneurship
+- title: seminars & talks
   type: time_table
   contents:
-    - title: ξ — Xi! Maths
-      institution: Founder & Director
-      year: 03.2024 — 
+    - title: An Algebraic Construction of Complete Regular Maps via Prime Ideals
+      year: January 2025
       description:
-        - Transforming the academic journey of 10+ students, with 4+ courses featuring +120 hours of content.
-        - Implementing a learning methodology that captures the uniqueness of each student’s learning journey.
-        - Illustrating the study of Mathematics as a construct of intellectual empowerment, a poetry of eloquence & precision.
-        - Fostering questioning minds that are unafraid of frustration, eager to make mistakes and persevere to the ultimate triumph.
-
-- title: Leadership
-  type: time_table
-  contents:
-    - title: The Mathematics Society @ Constructor University
-      institution: Bremen, Germany
-      year: 09.2023 — 
+        - AMS Special Session, Joint Mathematics Meetings, Seattle, US. 
+    - title: Gedankenexperimente!− Thought Experiments!
+      year: Fall 2024
       description:
-        - Mentoring younger students; and motivating dialogue that dismantles math stereotypes.
-        - Orchestrated a renaissance of the mathematics community, with a record 22+ members in 2023-24.
-        - Introduced Math Sundays, a dynamic initiative dedicated to immersive mathematical talks within the community.
-    - title: Google Developer Student Club @ Constructor University
-      institution: Bremen, Germany
-      year: 10.2022 — 
-      description:
-        - Mentored ResQme 2x, ExoHeal, Grub On, Navimate to a top-100 worldwide spot in the Google Solution Challenge.
-        - Conducted 10+ workshops for Google and the Hult Prize Foundation on the human element of design thinking.
-        - Directed 400+ design thinkers to design creative solutions for the 17 UN Sustainable Development Goals.
-
-- title: Professional Experience
-  type: time_table
-  contents:
-    - title: "<div style='margin-left: 10px;'>Assistant Director</div>"
-      institution: Mathnasium of the Courtyard, Giza, Egypt
-      year: 04.2022 - 08.2022
-      description:
-        - Analyzed student attendance trends, maintained a target 3:1 student-to-instructor ratio with a 90% success rate.
-        - Implemented an individual, developmentally appropriate learning experience for 35+ students.
-        - Built family relationships; solicited parent feedback; generated leads.
-    - title: "<div style='margin-left: 10px;'>Lead Mathematics Instructor</div>"
-      institution: Mathnasium of the Courtyard, Giza, Egypt
-      year: 11.2021 - 04.2022
-      description:
-        - Orchestrated the instructor team (floor) to provide excellent instruction.
-        - Mentored and oriented newly-hired instructors to facilitate an easy transition into their roles.
-        - Provided individual instruction to high volumes of students (3 - 4 students) concurrently.
-
-- title: Scholarships & Awards
-  type: time_table
-  contents:
-    - title: Die Sparkasse Mathematik
-      institution: Bremen, Germany
-      year: 2022 — 2025
-      description:
-        - Recognition of students with outstanding aptitude and enthusiasm for mathematics.
-    - title: Jacobs University Grant
-      institution: Bremen, Germany
-      year: 2022 — 2025
-      description:
-        - Awarded on a performance potential basis to talented students from around the world.
-
-- title: Seminars & Talks
-  type: time_table
-  contents:
+        - General Audience Workshop, Five Thought Experiments in German.
     - title: Fibrations & Applications to Computations of Higher Homotopy Groups
       year: Spring 2024
       description:
@@ -116,25 +62,116 @@
       year: Fall 2023
       description:
         - General Audience Talk on Russell’s Paradox
-
-- title: Projects
+        
+- title: professional experience
   type: time_table
   contents:
-    - title: sustainApple Application
-      institution: Joint with Fabian Vogel — jacobsHack! 22
+    - title: "<div style='margin-left: 10px;'>Mathematics Instructor - Scholastic Aptitude Test (SAT) </div>"
+      institution: Constructor University
+      year: 10.2024 - 12.2024
+      description:
+        - with a one-week notice to assume full responsibility for the class, a two-month plan utilising the Collegeboard Educator QuestionBank was successfully set out and executed.
+        - adopted a topic-based treatment to 19 skills that encompass the mathematics test, and instilled a developmentally appropriate learning framework with difficulty based exercises.
+        - implemented a technical project to digitally transform 3 × 19 quizzes to moodle, encompassing a total of 850+ questions.
+        - ensured a proper recording and documentation of class materials, including lectures, exercises & handouts
+    - title: "<div style='margin-left: 10px;'> Teaching Assistant - Calculus & Elements of Linear Algebra I </div>"
+      institution: Constructor University
+      year: 09.2024 - 12.2024
+      description:
+        - held lectures on behalf of the course instructor, and conducted engaging mathematical discourse in tutorials.
+        - created 120+ short video tutorials to overview problem set solutions, amassing 36 hours of video content.
+        - oversaw the Learning Management System, performing a full digital transformation of question sets.
+    - title: "<div style='margin-left: 10px;'>Assistant Director</div>"
+      institution: Mathnasium of the Courtyard, Giza, Egypt
+      year: 04.2022 - 08.2022
+      description:
+        - analyzed student attendance trends, maintained a target 3:1 student-to-instructor ratio with a 90% success rate.
+        - implemented an individual, developmentally appropriate learning experience for 35+ students.
+        - built family relationships; solicited parent feedback; generated leads.
+    - title: "<div style='margin-left: 10px;'>Lead Mathematics Instructor</div>"
+      institution: Mathnasium of the Courtyard, Giza, Egypt
+      year: 11.2021 - 04.2022
+      description:
+        - orchestrated the instructor team (floor) to provide excellent instruction.
+        - mentored and oriented newly-hired instructors to facilitate an easy transition into their roles.
+        - provided individual instruction to high volumes of students (3 - 4 students) concurrently.
+
+- title: scholarships & awards
+  type: time_table
+  contents:
+    - title: Participation, International Mathematics Competition 
+      institution: Blagoevgrad, Bulgaria
+      year: August 2024
+      description:
+        - final placing — 387th out of a total 401 participants.
+    - title: Die Sparkasse Mathematik, €10,800
+      institution: Bremen, Germany
+      year: 2022 — 2025
+      description:
+        - recognition of students with outstanding aptitude and enthusiasm for mathematics.
+    - title: Jacobs University Grant, €18,000
+      institution: Bremen, Germany
+      year: 2022 — 2025
+      description:
+        - awarded on a performance potential basis to talented students from around the world.
+
+- title: projects
+  type: time_table
+  contents:
+    - title: .txt to moodle.sty
+      institution: RegEx Project — Implemented in Python
       year: November 2023
       description:
-        - Aims to reduce carbon footprint by comparing its users’ sustainability scores (in apples) to create self-awareness.
-        - Uses geo-locational input to provide insightful inferences on CO2 emissions of a user’s vehicle, inspired by the EEA database.
+        - the project resolves an obstacle with the digital transformation of Collegeboard Educator QuestionBank questions.
+        - built on top of mathPix’s \(\LaTeX\) OCR engine, the rendered \(\LaTeX\) text is returned in a moodle.sty compatible format.
+        - processing is done by fetching (id, ans, body, choices, type) for each question by means of simple logic.
+        - the culmination of many simple steps gives rise to an object that is complicated and functional
     - title: Numerical Schemes in the Context of Differential Equations Notebook
       institution: Joint with Mohammad Bennani — Implemented in Python
       year: June 2024
       description:
-        - Introduces standard approximation schemes in the realm of numerical solutions and intermediate, boundary value problems.
-        - Comprehensively treats the implicit and explicit Euler schemes, as well as the finite differencing and shooting methods.
-        - Numerically solves the heat equation (PDE) in two dimensions for given initial conditions.
+        - introduces standard approximation schemes in the realm of numerical solutions and intermediate, boundary value problems.
+        - comprehensively treats the implicit and explicit Euler schemes, as well as the finite differencing and shooting methods.
+        - numerically solves the heat equation (PDE) in two dimensions for given initial conditions.
+    - title: sustainApple
+      institution: Joint with Fabian Vogel — jacobsHack! 22
+      year: November 2023
+      description:
+        - aims to reduce carbon footprint by comparing its users’ sustainability scores (in apples) to create self-awareness.
+        - uses geo-locational input to provide insightful inferences on CO2 emissions of a user’s vehicle, inspired by the EEA database.
 
-- title: Software
+- title: entrepreneurship
+  type: time_table
+  contents:
+    - title: ξ — Xi! Maths
+      institution: Mathematics Initiative — Founder & Director
+      year: 03.2024 — 
+      description:
+        - transforming the academic journey of 10+ students, with 4+ courses featuring +120 hours of content.
+        - implementing a learning methodology that captures the uniqueness of each student’s learning journey.
+        - illustrating the study of Mathematics as a construct of intellectual empowerment, a poetry of eloquence & precision.
+        - fostering questioning minds that are unafraid of frustration, eager to make mistakes and persevere to the ultimate triumph.
+
+- title: leadership
+  type: time_table
+  contents:
+    - title: The Mathematics Society @ Constructor University
+      institution: Bremen, Germany
+      year: 09.2023 — 
+      description:
+        - initiated a Mathematics Support Center for 30+ registrants, operating single-handedly for four hours a week in Fall 2024.
+        - introduced Open Discourse in Fall 2024, a dynamic initiative dedicated to immersive mathematical talks in the community.
+        - orchestrated a renaissance of the mathematics community, with a record 22+ members in Fall 2023.
+        - mentoring younger students; and motivating dialogue that dismantles math stereotypes.
+    - title: Google Developer Student Club @ Constructor University
+      institution: Bremen, Germany
+      year: 10.2022 — 
+      description:
+        - mentored ResQme 2x, ExoHeal, Grub On, Navimate to a top-100 worldwide spot in the Google Solution Challenge.
+        - conducted 10+ workshops for Google and the Hult Prize Foundation on the human element of design thinking.
+        - directed 400+ design thinkers to design creative solutions for the 17 UN Sustainable Development Goals.
+
+- title: software
   type: list
   contents:
     - Java
@@ -145,6 +182,44 @@
     - Pandas
     - Scikit.learn
     - SQL
-    - LATEX
-    - Excel
-
+    - \(\LaTeX\)
+    - Excel       
+        
+ 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        

@@ -1,3 +1,4 @@
+incremental: true
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
@@ -16,7 +17,7 @@ keywords:
 - mathematics education
 - mathematical research
 - topological graph theory
-- algebraic nummbber theory
+- algebraic number theory
 - data analytics
 - finance
 - IT
@@ -34,14 +35,14 @@ icon: ξ) # the emoji used as the favicon (alternatively, provide image name in 
 url: https://elshenawyom.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: true # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path: /impressum-dsvgo/ # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: false
@@ -142,7 +143,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: excerpts # blog_name will be displayed in your blog page
-blog_description: stay tuned :)
+blog_description: on life, people, and mathematics
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -151,14 +152,14 @@ pagination:
 
 related_blog_posts:
   enabled: true
-  max_related: 5
+  max_related: 4
 
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: # <your-github-user-name>/<your-github-repo-name>
-  repo_id: # leave empty or specify your repo_id (see https://giscus.app/)
-  category: Comments # name of the category under which discussions will be created
+  repo: "elshenawyom/elshenawyom.github.io" # elshenawyom/elshenawyom.github.io
+  repo_id: R_kgDOMQEM-Q # leave empty or specify your repo_id (see https://giscus.app/)
+  category: Discourse # name of the category under which discussions will be created
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
   strict: 1 # use strict identification mode
@@ -192,11 +193,13 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  teaching:
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 4 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -263,6 +266,7 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-redirect-from
 
 # Sitemap settings
 defaults:
@@ -274,6 +278,10 @@ defaults:
 sass:
   style: compressed
 
+toc:
+  min_level: 1       # Minimum heading level to include in the TOC
+  max_level: 6       # Maximum heading level to include
+  numbered: true     # Enable numbering
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
 # -----------------------------------------------------------------------------
@@ -314,6 +322,7 @@ scholar:
 
   source: /_bibliography/
   bibliography: seminars-talks.bib
+  use-markdown: true
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -379,7 +388,7 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
-
+  - assets/jupyter/
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
 # -----------------------------------------------------------------------------
@@ -615,3 +624,6 @@ jsonresume:
   - scholarships & awards
   - skills
   - languages
+  
+
+

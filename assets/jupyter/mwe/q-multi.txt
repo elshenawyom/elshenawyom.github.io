@@ -1,0 +1,33 @@
+\section*{Question ID 02060533}
+\begin{tabular}{|l|l|l|l|l|}
+\hline Assessment & Test & Domain & Skill & Difficulty \\
+SAT & Math & Advanced Math & Nonlinear functions & $\square \square \square$ \\
+\hline
+\end{tabular}
+
+\section*{ID: 02060533}
+\begin{tabular}{|c|c|}
+\hline$x$ & $g(x)$ \\
+\hline-27 & 3 \\
+\hline-9 & 0 \\
+\hline 21 & 5 \\
+\hline
+\end{tabular}
+
+The table shows three values of $x$ and their corresponding values of $g(x)$, where $g(x)=\frac{f(x)}{x+3}$ and $f$ is a linear function. What is the $y$-intercept of the graph of $y=f(x)$ in the $x y$-plane?
+A. $(0,36)$
+B. $(0,12)$
+C. $(0,4)$
+D. $(0,-9)$
+
+\section*{ID: 02060533 Answer}
+
+\section*{Correct Answer: A}
+
+\section*{Rationale}
+
+Choice A is correct. It's given that the table shows values of $x$ and their corresponding values of $g x$, where $g x=\frac{f x}{x+3}$. It's also given that $f$ is a linear function. It follows that an equation that defines $f$ can be written in the form $f x=m x+b$, where $m$ represents the slope and $b$ represents the $y$-coordinate of the $y$-intercept $0, b$ of the graph of $y=f x$ in the $x y$ plane. The slope of the graph of $y=f x$ can be found using two points, $x_{1}, y_{1}$ and $x_{2}, y_{2}$, that are on the graph of $y=f x$, and the formula $m=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}$. Since the table shows values of $x$ and their corresponding values of $g x$, substituting values of $x$ and $g x$ in the equation $g x=\frac{f x}{x+3}$ can be used to define function $f$. Using the first pair of values from the table, $x=-27$ and $g x=3$, yields $3=\frac{f-27}{-27+3}$, or $3=\frac{f-27}{-24}$. Multiplying each side of this equation by -24 yields $-72=f-27$, so the point $-27,-72$ is on the graph of $y=f x$. Using the second pair of values from the table, $x=-9$ and $g x=0$, yields $0=\frac{f-9}{-9+3}$, or $0=\frac{f-9}{-6}$. Multiplying each side of this equation by -6 yields $0=f-9$, so the point $-9,0$ is on the graph of $y=f x$. Substituting -27, -72 and $-9,0$ for $x_{1}, y_{1}$ and $x_{2}, y_{2}$, respectively, in the formula $m=\frac{y_{2}-y_{1}}{x_{2}-x_{1}}$ yields $m=\frac{0--72}{-9-27}$, or $m=4$. Substituting 4 for $m$ in the equation $f x=m x+b$ yields $f x=4 x+b$. Since $0=f-9$, substituting -9 for $x$ and 0 for $f x$ in the equation $f x=4 x+b$ yields $0=4-9+b$, or $0=-36+b$. Adding 36 to both sides of this equation yields $36=b$. It follows that 36 is the $y$-coordinate of the $y$-intercept $0, b$ of the graph of $y=f x$. Therefore, the $y$-intercept of the graph of $y=f x$ is 0,36 .
+
+Choice B is incorrect. 12 is the $y$-coordinate of the $y$-intercept of the graph of $y=g x$.
+Choice C is incorrect. 4 is the slope of the graph of $y=f x$.
+Choice $\mathbf{D}$ is incorrect. -9 is the $x$-coordinate of the $x$-intercept of the graph of $y=f x$.

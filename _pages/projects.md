@@ -8,7 +8,7 @@ nav_order: 3
 #display_categories: [work, fun]
 horizontal: false
 ---
-
+   
 <!--
 - jacobshack sustainapple
 - numerical schemes for mathematical modeling
@@ -16,9 +16,6 @@ horizontal: false
 - optimization in python for dsp
 - check out the dsp and nsl projects maybe that's useful
 -->
-
-
-
 
 
 <!-- pages/projects.md -->
@@ -30,7 +27,8 @@ horizontal: false
     <h2 class="category">{{ category }}</h2>
   </a>
   {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  {% assign visible_projects = categorized_projects | where_exp: "project", "project.hidden != true" %}
+  {% assign sorted_projects = visible_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
   <div class="container">
@@ -53,7 +51,8 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.projects | sort: "importance" %}
+{% assign visible_projects = site.projects | where_exp: "project", "project.hidden != true" %}
+{% assign sorted_projects = visible_projects | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 
@@ -75,3 +74,4 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
