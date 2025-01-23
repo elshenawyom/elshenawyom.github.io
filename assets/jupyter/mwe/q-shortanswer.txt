@@ -1,0 +1,22 @@
+\section*{
+Question ID 301faf80
+}
+\begin{tabular}{|l|l|l|l|l|}
+\hline Assessment & Test & Domain & Skill & Difficulty \\
+SAT & Math & Advanced Math & Nonlinear functions & $\square \square \square$ \\
+\hline
+\end{tabular}
+
+\section*{ID: 301faf80}
+
+The product of two positive integers is 462 . If the first integer is 5 greater than twice the second integer, what is the smaller of the two integers?
+
+\section*{ID: 301faf80 Answer}
+
+Correct Answer: 14
+
+\section*{Rationale}
+
+The correct answer is 14 . Let $x$ represent the first integer and $y$ represent the second integer. If the first integer is 5 greater than twice the second integer, then $x=2 y+5$. It's given that the product of the two integers is 462 ; therefore $x y=462$. Substituting $2 y+5$ for $x$ in this equation yields $(2 y+5)(y)=462$, which can be written as $2 y^{2}+5 y=462$. Subtracting 462 from each side of this equation yields $2 y^{2}+5 y-462=0$. The left-hand side of this equation can be factored by finding two values whose product is 2 ( -462 ), or -924 , and whose sum is 5 . The two values whose product is -924 and whose sum is 5 are 33 and -28 . Thus, the equation $2 y^{2}+5 y-462=0$ can be rewritten as $2 y^{2}-28 y+33 y-462=0$, which is equivalent to $2 y(y-14)+33(y-14)=0$, or $(2 y+33)(y-14)=0$. By the zero product property, it follows that $2 y+33=0$ or $y-14=0$. Subtracting 33 from both sides of the equation $2 y+33=0$ yields $2 y=-33$. Dividing both sides of this equation by 2 yields $y=-\frac{33}{2}$. Since $y$ is a positive integer, the value of $y$ isn't $-\frac{33}{2}$. Adding 14 to both sides of the equation $y-14=0$ yields $y=14$. Substituting 14 for $y$ in the equation $x y=462$ yields $x(14)=462$. Dividing both sides of this equation by 14 yields $x=33$. Therefore, the two integers are 14 and 33 , so the smaller of the two integers is 14 .
+
+Question Difficulty: Hard

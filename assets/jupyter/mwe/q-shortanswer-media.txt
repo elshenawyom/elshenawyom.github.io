@@ -1,0 +1,28 @@
+\section*{Question Difficulty: Hard}
+
+\section*{Question ID 09d21d79}
+\begin{tabular}{|l|l|l|l|l|}
+\hline Assessment & Test & Domain & Skill \\
+SAT & Math & Advanced Math & Nonlinear functions & Difficulty \\
+$\square \square$ \\
+\hline
+\end{tabular}
+
+\section*{ID: 09d21d79}
+![](https://cdn.mathpix.com/cropped/2024_11_04_a374deafc4bc3bc8f639g-10.jpg?height=858&width=861&top_left_y=679&top_left_x=129)
+
+The graph of $y=2 x^{2}+b x+c$ is shown, where $b$ and $c$ are constants. What is the value of $b c$ ?
+
+\section*{ID: 09d21d79 Answer}
+
+Correct Answer: -24
+
+\section*{Rationale}
+
+The correct answer is -24 . Since the graph passes through the point $0,-6$, it follows that when the value of $x$ is 0 , the value of $y$ is -6 . Substituting 0 for $x$ and -6 for $y$ in the given equation yields $-6=20^{2}+b 0+c$, or $-6=c$. Therefore, the value of $c$ is -6 . Substituting -6 for $c$ in the given equation yields $y=2 x^{2}+b x-6$. Since the graph passes through the point $-1,-8$, it follows that when the value of $x$ is -1 , the value of $y$ is -8 . Substituting -1 for $x$ and -8 for $y$ in the equation $y=2 x^{2}+b x-6$ yields $-8=2-1^{2}+b-1-6$, or $-8=2-b-6$, which is equivalent to $-8=-4-b$. Adding 4 to each side of this equation yields $-4=-b$. Dividing each side of this equation by -1 yields $4=b$. Since the value of $b$ is 4 and the value of $c$ is -6 , it follows that the value of $b c$ is $4-6$, or -24 .
+
+Alternate approach: The given equation represents a parabola in the $x y$-plane with a vertex at $-1,-8$. Therefore, the given equation, $y=2 x^{2}+b x+c$, which is written in standard form, can be written in vertex form, $y=a x-h^{2}+k$, where $h, k$ is the vertex of the parabola and $a$ is the value of the coefficient on the $x^{2}$ term when the equation is written in standard form. It follows that $a=2$. Substituting 2 for $a,-1$ for $h$, and -8 for $k$ in this equation yields $y=2 x--1^{2}+-8$, or $y=2 x+1^{2}$ - 8 . Squaring the binomial on the right-hand side of this equation yields $y=2 x^{2}+2 x+1-8$. Multiplying each term inside the parentheses on the right-hand side of this equation by 2 yields $y=2 x^{2}+4 x+2-8$, which is equivalent to $y=2 x^{2}+4 x-6$. From the given equation $y=2 x^{2}+b x+c$, it follows that the value of $b$ is 4 and the value of $c$ is -6 .
+Therefore, the value of $b c$ is $4-6$, or -24 .
+
+Question Difficulty: Hard
+
