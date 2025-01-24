@@ -16,11 +16,21 @@ In a 70-minute tutorial, there are only so many things to do. To concentrate the
 
 #### tutorial 1
 
-<center>
-<iframe src="/assets/pdf/teaching/cla-1/Tutorial 1 - CLA (I).pdf/" width="100%" height="1000" style="border: none;">
-  <p>Your browser does not support iframes.</p>
-</iframe>
-</center>
+<div class="outer-pdf" style="-webkit-overflow-scrolling: touch; overflow: auto;">
+ <div class="pdf">
+     <iframe class="desktop-pdf" scrolling="auto" 
+        src="elshenawyom.github.io/assets/pdf/teaching/cla-1/Tutorial 1 - CLA (I).pdf" 
+        width="100%" height="610" 
+        type='application/pdf'>
+     </iframe>
+     <iframe class="mobile-pdf" scrolling="auto" 
+        src="https://drive.google.com/viewerng/viewer?embedded=true&url=elshenawyom.github.io/assets/pdf/teaching/cla-1/Tutorial 1 - CLA (I).pdf" 
+        width="100%" height="610" 
+        type='application/pdf'>
+     </iframe>
+ </div>
+</div>
+
 
 <div style="margin-top: 30px;"></div>
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -28,6 +38,8 @@ In a 70-minute tutorial, there are only so many things to do. To concentrate the
   <a href="/teaching/cla-i/week-2/" style="font-size: 1.5em; text-decoration: none; text-align: right;"> week 2 > </a>
 </div>
 
+<br>
+<br>
 
 <!--
 

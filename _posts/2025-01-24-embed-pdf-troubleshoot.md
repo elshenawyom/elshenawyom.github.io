@@ -11,28 +11,51 @@ images:
   slider: true
 ---
 
- tolerating my many shortcomings.
+x
+<embed 
+    src="/assets/pdf/banachtarski_slides.pdf" 
+    type="application/pdf" 
+    width="100%" 
+    height="600px">
 
-## `ii.` presentation {#pn}
-<div style="margin-top: 30px;"></div>
-<iframe src="/assets/pdf/blog/state-religion/presentation.pdf/" width="100%" height="610" style="border: none;">
-  <p>Your browser does not support iframes.</p>
+
+
+xxx
+<iframe 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=elshenawyom.github.io/assets/pdf/banachtarski_slides.pdf" 
+    style="width: 100%; height: 600px;" 
+    frameborder="0">
 </iframe>
-<div style="margin-top: 30px;"></div>
-## `iii.` paper {#pr}
-<div style="margin-top: 30px;"></div>
-<iframe src="/assets/pdf/blog/state-religion/state-religion-vaya-elshinawy.pdf/" width="100%" height="1000" style="border: none;">
-  <p>Your browser does not support iframes.</p>
-</iframe>
 
-<br>
-## `bonus.` political timeline of Rwanda 
-<br>
 
-{% include figure.liquid 
-	path="assets/img/blog/state-religion/timeline.jpg" 
-	class="img-fluid rounded z-depth-1" 
-	zoomable=true 
-	style="width: 100%; height: auto;" 
-	center=true
-%}
+
+xxxx
+
+
+%%% MY SOLUTION
+
+<div class="outer-pdf" style="-webkit-overflow-scrolling: touch; overflow: auto;">
+ <div class="pdf">
+     <iframe class="desktop-pdf" scrolling="auto" 
+        src="/assets/pdf/banachtarski_slides.pdf" 
+        width="100%" height="90%" 
+        type='application/pdf'>
+     </iframe>
+     <iframe class="mobile-pdf" scrolling="auto" 
+        src="https://drive.google.com/viewerng/viewer?embedded=true&url=/assets/pdf/banachtarski_slides.pdf" 
+        width="100%" height="90%" 
+        type='application/pdf'>
+     </iframe>
+ </div>
+</div>
+
+
+%%% try again
+
+<iframe id="theFrame" src="/assets/pdf/banachtarski_slides.pdf" style="height:1000px; width:100%;"></iframe>
+<script>
+document.getElementById("theFrame").contentWindow.onload = function() {
+    this.document.getElementsByTagName("img")[0].style.width="100%";
+};
+</script>
+
