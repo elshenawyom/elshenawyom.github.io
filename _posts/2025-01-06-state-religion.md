@@ -33,15 +33,23 @@ As part of the State, Religion and Secularism course under Professor Manfred Hin
 By we, I acknowledge my dear collaborator Parth Vaya, who is Rwandan in origin. This research project has been nothing short of fun, and I would like to thank him for tolerating my many shortcomings.
 
 ## `ii.` presentation {#pn}
+
 <div style="margin-top: 30px;"></div>
-<iframe src="/assets/pdf/blog/state-religion/presentation.pdf/" width="100%" height="610" style="border: none;">
-  <p>Your browser does not support iframes.</p>
+
+<iframe scrolling="auto" 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=elshenawyom.github.io/assets/pdf/blog/state-religion/presentation.pdf" 
+    style="width: 100%; height: 610px;" 
+    frameborder="0">
 </iframe>
+
 <div style="margin-top: 30px;"></div>
+
 ## `iii.` paper {#pr}
-<div style="margin-top: 30px;"></div>
-<iframe src="/assets/pdf/blog/state-religion/state-religion-vaya-elshinawy.pdf/" width="100%" height="1000" style="border: none;">
-  <p>Your browser does not support iframes.</p>
+
+<iframe scrolling="auto" 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=elshenawyom.github.io/assets/pdf/blog/state-religion/state-religion-vaya-elshinawy.pdf" 
+    style="width: 100%; height: 1000px;" 
+    frameborder="0">
 </iframe>
 
 <br>

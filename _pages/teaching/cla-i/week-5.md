@@ -75,3 +75,6 @@ The tutorial slot was a day off, so we held the tutorial at another slot. The re
   <a href="/teaching/cla-i/week-6/" style="font-size: 1.5em; text-decoration: none; text-align: right;"> week 6 > </a>
 </div>
 
+<br>
+<br>
+

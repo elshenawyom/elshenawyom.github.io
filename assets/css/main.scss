@@ -23,19 +23,3 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
-
-.mobile-view .desktop-pdf {
-  display: none;
-}
-
-.mobile-view .mobile-pdf {
-  display: block;
-}
-
-.desktop-view .mobile-pdf {
-  display: none;
-}
-
-.desktop-view .desktop-pdf {
-  display: block;
-}

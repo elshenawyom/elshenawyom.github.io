@@ -11,11 +11,11 @@ nav: false
 ### tutorial notes
 <div style="margin-top: 20px;"></div>
 
-<center>
-<iframe src="/assets/pdf/teaching/cla-1/Tutorial 2 - CLA (I).pdf/" width="100%" height="1000" style="border: none;">
-  <p>Your browser does not support iframes.</p>
+<iframe scrolling="auto" 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=elshenawyom.github.io/assets/pdf/teaching/cla-1/Tutorial 2 - CLA (I).pdf" 
+    style="width: 100%; height: 1000px;" 
+    frameborder="0">
 </iframe>
-</center>
 
 <div style="margin-top: 30px;"></div>
 ### quiz tutorial
@@ -43,4 +43,7 @@ nav: false
   <a href="/teaching/cla-i/" style="font-size: 1.5em; text-decoration: none; text-align: center;"> course homepage </a>
   <a href="/teaching/cla-i/week-3/" style="font-size: 1.5em; text-decoration: none; text-align: right;"> week 3 > </a>
 </div>
+
+<br>
+<br>
 

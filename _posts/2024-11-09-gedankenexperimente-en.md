@@ -15,7 +15,7 @@ hidden: true
 permalink: /blog/2024/gedankenexperimente/en/
 ---
 
-#### [🇩🇪 de](/2024/blog/gedankenexperimente/)
+#### [🇩🇪 de](/2024/blog/gedankenexperimente)
 
 <br>
 {% include figure.liquid path="/assets/img/blog/gedankenexperimente/gedankenexperimente.jpg" class="img-fluid rounded z-depth-1" zoomable=true style="width: 50%; height: auto;" %}

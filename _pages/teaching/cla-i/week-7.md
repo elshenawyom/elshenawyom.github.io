@@ -10,11 +10,11 @@ nav: false
 <div style="margin-top: 30px;"></div>
 
 ### sketching
-<center>
-<iframe src="/assets/pdf/teaching/cla-1/Tutorial 7.1 - CLA (I).pdf/" width="100%" height="1000" style="border: none;">
-  <p>Your browser does not support iframes.</p>
+<iframe scrolling="auto" 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=elshenawyom.github.io/assets/pdf/teaching/cla-1/Tutorial 7.1 - CLA (I).pdf" 
+    style="width: 100%; height: 1000px;" 
+    frameborder="0">
 </iframe>
-</center>
 <div style="margin-top: 15px;"></div>
 ### integrals
 <div style="margin-top: 15px;"></div>
@@ -66,3 +66,5 @@ We ran out of time during the last tutorial, therefore a supplement was provided
   <a href="/teaching/cla-i/week-8/" style="font-size: 1.5em; text-decoration: none; text-align: right;"> week 8 > </a>
 </div>
 
+<br>
+<br>

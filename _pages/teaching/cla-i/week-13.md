@@ -53,3 +53,6 @@ The final showdown!
   <a href="/teaching/cla-i/" style="font-size: 1.5em; text-decoration: none; text-align: center;"> course homepage </a>
 </div>
 
+<br>
+<br>
+

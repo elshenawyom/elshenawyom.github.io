@@ -12,11 +12,11 @@ nav: false
 ### tutorial notes
 <div style="margin-top: 20px;"></div>
 
-<center>
-<iframe src="/assets/pdf/teaching/cla-1/Tutorial 9 - CLA (I).pdf/" width="100%" height="1000" style="border: none;">
-  <p>Your browser does not support iframes.</p>
+<iframe scrolling="auto" 
+    src="https://drive.google.com/viewerng/viewer?embedded=true&url=elshenawyom.github.io/assets/pdf/teaching/cla-1/Tutorial 9 - CLA (I).pdf" 
+    style="width: 100%; height: 1000px;" 
+    frameborder="0">
 </iframe>
-</center>
 
 
 <div style="margin-top: 20px;"></div>
@@ -47,4 +47,8 @@ A bonus midterm tutorial was offered to give a taste of what the final exam migh
   <a href="/teaching/cla-i/" style="font-size: 1.5em; text-decoration: none; text-align: center;"> course homepage </a>
   <a href="/teaching/cla-i/week-10/" style="font-size: 1.5em; text-decoration: none; text-align: right;"> week 10 > </a>
 </div>
+
+
+<br>
+<br>
 
