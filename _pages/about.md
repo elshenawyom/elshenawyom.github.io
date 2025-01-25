@@ -24,7 +24,7 @@ I am an undergraduate student of mathematics. As of now, I am in the research gr
 With that being said, very few things do not pique my interest. I enjoy applying practical rigour to meaningful constructions. My involvement extends to projects in data analytics, finance, IT & software, project management, and teaching.
 
 
-At the intersection of all these facades lies someone who is not afraid to experiment, to make mistakes and profit from them, to accept frustration and yet persevere to an ultimate triumph. $$\boxed{\xi}$$
+At the intersection of all these facades lies someone who is not afraid to experiment, to make mistakes and profit from them, to accept frustration and yet persevere to an ultimate triumph. $$\boxed{\xi}$$  
 
 
 <!--
