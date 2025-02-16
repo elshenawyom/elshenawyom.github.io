@@ -15,7 +15,7 @@ hidden: true
 permalink: /blog/2024/gedankenexperimente/en/
 ---
 
-#### [🇩🇪 de](/2024/blog/gedankenexperimente)
+#### [🇩🇪 de](/blog/2024/gedankenexperimente/)
 
 <br>
 {% include figure.liquid path="/assets/img/blog/gedankenexperimente/gedankenexperimente.jpg" class="img-fluid rounded z-depth-1" zoomable=true style="width: 50%; height: auto;" %}
@@ -85,24 +85,7 @@ With probability 1, two out of 367 people will have the same birthday. But, with
 <br>
 ## A Prisoner's Dilemma {#e}
 <br>
-We delve into the complexities of decision-making through the lens of the classic Prisoner’s Dilemma,
-where one needs to make a difficult choice between cooperation and personal gain. It turns out that even
-strategy, decision-making, feelings and behaviour can be made mathematically precise. Through this
-lens, we study the dynamics of trust and self-interest with the goal of reaching the best scenario possible.
-In this intriguing thought experiement, we aim to equip the audience with a non-standard set of machin-
-ery that will upscale their strategic decision making: not just in mathematics, but in all what life has to
-offer.
+We delve into the complexities of decision-making through the lens of the classic Prisoner’s Dilemma, where one needs to make a difficult choice between cooperation and personal gain. It turns out that even strategy, decision-making, feelings and behaviour can be made mathematically precise. Through this lens, we study the dynamics of trust and self-interest with the goal of reaching the best scenario possible.
+In this intriguing thought experiement, we aim to equip the audience with a non-standard set of machinery that will upscale their strategic decision making: not just in mathematics, but in all what life has to offer.
 <br>
 {% include figure.liquid path="/assets/img/blog/gedankenexperimente/5. Ein Gefangenenrätsel.jpg" class="img-fluid rounded z-depth-1" zoomable=true style="width: 50%; height: auto;" %}
-
-
-
-
-
-
-
-
-
-
-
-
